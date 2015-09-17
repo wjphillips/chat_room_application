@@ -1,0 +1,11 @@
+{
+  "name": "Group_Chat",
+  "description": "Simple chat-room app that uses socket.io to maintain the connection",
+  "dependencies": {
+    "body-parser": "^1.14.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "path": "^0.12.7",
+    "socket.io": "^1.3.6"
+  }
+}
